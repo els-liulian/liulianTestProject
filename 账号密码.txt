@@ -1,0 +1,97 @@
+1，通过以下产品和实现贵公司的需求：
+a. 直播、录播、屏幕共享：TRTC SDK https://intl.cloud.tencent.com/zh/document/product/647/34615
+b. 聊天：IM SDK：https://intl.cloud.tencent.com/zh/document/product/1047/33996
+c. 老师和学生互动白板：https://cloud.tencent.com/document/product/1137/39896
+d. 其他产品：对象存储COS：https://intl.cloud.tencent.com/zh/product/cos
+
+Web端 原型图
+https://www.xiaopiu.com/web/byId?type=project&id=604ecf6bdd286838605ea2f3
+App端 原型图
+https://www.xiaopiu.com/h5/byId?type=project&id=6036f8185812e33bd593435f
+
+
+http://coderbar.com/redmine    redmine地址  wangfei/wangfei123
+
+svn地址;
+https://47.111.235.188/svn/SvnRoot
+user：wangfei
+pwd:15040614525
+
+数据库账号密码: 
+url:rm-2ze7j2gc6q71148relo.mysql.rds.aliyuncs.com:3306
+username:coderbar
+password:elifes@123456
+
+
+国际版本 腾讯云 账号
+ki.kuwa@elifes.co.jp
+ZWxpZmVzCg==0129
+
+国内版本腾讯云账号
+77673816@qq.com     Pa55word#@
+
+git地址
+https://console.cloud.tencent.com/coding/container-devops
+
+测试服务器地址
+218.244.137.163
+root
+密码：elifes@95250052
+
+阿里云账号地址
+账号 大连易升科技  
+密码 elifes@123456
+
+
+cdn中国网址
+https://console.cloud.tencent.com/live/domainmanage
+
+直播应用网址
+https://console.cloud.tencent.com/trtc/app/detail/baseinfo/1400512527?bizName=codebar2
+
+阿里云测试服务器caodebar2.0
+39.107.87.189
+elifes@95250052
+
+paypal账号：
+3123995242@qq.com
+Elifes2019
+
+
+晓锋:
+line开发者 账号：coder.8@elifes.co.jp 密码：Coder81024521
+
+晓锋:
+facebook开发者 账号：coder.8@elifes.co.jp   coderbar123
+
+微信开发者  dalian2017slj@163.com/suo@95250052
+
+trtc 前台js 说明文档
+https://web.sdk.qcloud.com/component/tweblive/doc/zh-cn/Pusher.html
+
+正式
+站点地址:http://coderbar.gensee.com/training
+管理员账号:admin@coderbar.com
+密码：coder666
+
+测试
+站点 http://codertest.gensee.com/training
+管理员：admin@test.com
+密码：888888  
+
+腾讯云正式环境数据库
+root
+codebar2021**&&^^%%
+
+腾讯云正式服务器 
+43.128.253.93
+codebar2021**&&^^%%
+
+elk 账号
+elastic
+codebar20210510**
+
+
+
+
+
